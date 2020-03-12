@@ -1,2 +1,2 @@
 # sycmirand.github.io
-// aula 01
+aula 01
